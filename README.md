@@ -56,7 +56,7 @@ Super minimal. Easy to understand. Easy to tweak.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mars-rocket-landing-animation.git
+   git clone https://github.com/Rohit908460/Marsh-Rocket-Landing-Animation
    ```
 
 2. Open the folder.
